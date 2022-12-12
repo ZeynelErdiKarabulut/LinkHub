@@ -1,7 +1,6 @@
 # LinkHub
 LinkHub is a simple and effective link management application that can help you to easily manage your own links with no ads!
 
-<img src="media/banner/linkhub_banner.png" width="100%" height="300" />
 
 ## Screenshots
 <p align="center">
